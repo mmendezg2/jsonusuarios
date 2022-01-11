@@ -1,11 +1,33 @@
 {
-  "posts": [
+  "users": [
+    { "id": "2", "username": "Izan", "password": "III"}
+  ],
+  "tracks": [
+    { "id": "ID1", "title": "Title 1", "singer": "Singer 1" },
+    { "id": "ID2", "title": "Title 2", "singer": "Singer 2" },
+    { "id": "ID3", "title": "Title 3", "singer": "Singer 3" },
+    { "id": "ID4", "title": "Title 4", "singer": "Singer 4" },
+    { "id": "ID5", "title": "Title 5", "singer": "Singer 5" },
+    { "id": "ID6", "title": "Title 6", "singer": "Singer 6" },
+    { "id": "ID7", "title": "Title 7", "singer": "Singer 7" },
+    { "id": "ID8", "title": "Title 8", "singer": "Singer 8" },
+    { "id": "ID9", "title": "Title 9", "singer": "Singer 9" },
+    { "id": "ID10", "title": "Title 10", "singer": "Singer 10" },
+    { "id": "ID11", "title": "Title 11", "singer": "Singer 11" },
+    { "id": "ID12", "title": "Title 12", "singer": "Singer 12" }
+  ],
+  "todos": [
+    {
+      "id": 0,
+      "name": "Go to the gym 🦾"
+    },
     {
       "id": 1,
-      "title": "hello"
+      "name": "Walk the dog 🐶"
+    },
+    {
+      "id": 2,
+      "name": "Get some pizza! 🍕"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
