@@ -1,8 +1,11 @@
-
 {
-  "usuarios" : [
-    { "id" : "1" , "usuario" : "Alejandra" , "contraseña" : "1234" }
-    { "id" : "2" , "usuario" : "Andrea" , "contraseña" : "1478" }
-    ]
- 
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
