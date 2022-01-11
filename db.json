@@ -1,1 +1,34 @@
 
+{
+  "usuarios" : [
+    { "id" : " 2 " , "nombre de usuario" : " Izan " , "contraseña" : " III " }
+  ],
+  "pistas" : [
+    { "id" : " ID1 " , "título" : " Título 1 " , "cantante" : " Cantante 1 "  },
+    { "id" : " ID2 " , "título" : " Título 2 " , "cantante" : " Cantante 2 "  },
+    { "id" : " ID3 " , "título" : " Título 3 " , "cantante" : " Cantante 3 "  },
+    { "id" : " ID4 " , "título" : " Título 4 " , "cantante" : " Cantante 4 "  },
+    { "id" : " ID5 " , "título" : " Título 5 " , "cantante" : " Cantante 5 "  },
+    { "id" : " ID6 " , "título" : " Título 6 " , "cantante" : " Cantante 6 "  },
+    { "id" : " ID7 " , "título" : " Título 7 " , "cantante" : " Cantante 7 "  },
+    { "id" : " ID8 " , "título" : " Título 8 " , "cantante" : " Cantante 8 "  },
+    { "id" : " ID9 " , "título" : " Título 9 " , "cantante" : " Cantante 9 "  },
+    { "id" : " ID10 " , "título" : " Título 10 " , "cantante" : " Cantante 10 "  },
+    { "id" : " ID11 " , "título" : " Título 11 " , "cantante" : " Cantante 11 "  },
+    { "id" : " ID12 " , "título" : " Título 12 " , "cantante" : " Cantante 12 "  }
+  ],
+  "todas" : [
+    {
+      "identificación" : 0 ,
+      "nombre" : " Ve al gimnasio 🦾 "
+    },
+    {
+      "identificación" : 1 ,
+      "nombre" : " Pasear al perro 🐶 "
+    },
+    {
+      "identificación" : 2 ,
+      "nombre" : " ¡Consigue un poco de pizza! 🍕 "
+    }
+  ]
+}
