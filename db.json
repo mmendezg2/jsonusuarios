@@ -15,19 +15,5 @@
     { "id": "ID10", "title": "Title 10", "singer": "Singer 10" },
     { "id": "ID11", "title": "Title 11", "singer": "Singer 11" },
     { "id": "ID12", "title": "Title 12", "singer": "Singer 12" }
-  ],
-  "todos": [
-    {
-      "id": 0,
-      "name": "Go to the gym 🦾"
-    },
-    {
-      "id": 1,
-      "name": "Walk the dog 🐶"
-    },
-    {
-      "id": 2,
-      "name": "Get some pizza! 🍕"
-    }
   ]
 }
